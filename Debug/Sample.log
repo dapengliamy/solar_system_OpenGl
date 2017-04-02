@@ -1,0 +1,93 @@
+﻿  Sample.cpp
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(201): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(201): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(202): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(202): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(205): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(279): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(321): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(326): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(327): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(334): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(342): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(345): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(348): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(351): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(358): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(377): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(379): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(381): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(383): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(387): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(389): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(391): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(393): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(398): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(400): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(402): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(404): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(408): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(410): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(412): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(414): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(419): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(421): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(423): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(425): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(429): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(431): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(433): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(435): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(480): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(590): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(591): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(592): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(595): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(596): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(597): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(612): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(614): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(620): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(621): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(830): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(831): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(838): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(849): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(852): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(854): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(860): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(885): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(888): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(891): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(897): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(906): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(909): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(912): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(919): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(924): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(927): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(930): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(933): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(943): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(947): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(949): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(955): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(957): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(965): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(979): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(983): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(986): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(992): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(999): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(1003): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(1006): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(1012): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(1014): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(1019): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(1023): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(1026): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(1031): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(1203): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\ibm_admin\desktop\cs550_project\finalproject\sample\sample.cpp(1770): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> C:\Users\IBM_ADMIN\Desktop\cs550_project\FinalProject\Sample\Debug\Sample.exe
+  Sample.vcxproj -> C:\Users\IBM_ADMIN\Desktop\cs550_project\FinalProject\Sample\Debug\Sample.pdb (Full PDB)
