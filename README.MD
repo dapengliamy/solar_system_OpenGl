@@ -8,6 +8,7 @@ To retain enough accuracy in the 3D simulation:
 5. Should support change of view angle and zoom in/zoom out.
 6. The lighting should be as accurate as possible: those half spheres facing the sun should be lighted, and the other halves should be dark.
 
+![alt tag](https://github.com/dapengliamy/solar_system_OpenGl/blob/master/dpp.gif)
 
 
 
